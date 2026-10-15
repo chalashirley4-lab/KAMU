@@ -1,0 +1,6 @@
+{
+  "name": "KAMU CRM - Sistema Integral de Gestión Comercial",
+  "description": "Sistema Integral de Gestión Comercial para consolidar, depurar y gestionar leads comerciales provenientes de campañas y formularios con sincronización a Google Workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
